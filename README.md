@@ -71,7 +71,7 @@ SHAP
 
 LIME
 
-matplotlib (optional for visualizations)
+matplotlib (optional for visualization)
 
 🚀 Future Directions
 
